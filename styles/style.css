@@ -424,7 +424,6 @@ footer{
     background-color: rgb(13, 17, 23);
     color:rgb(255, 255, 255);
     border-bottom: 3px solid rgb(255, 255, 255);
-
 }
 
 /*******************************************************************************************/
@@ -479,7 +478,7 @@ footer{
       .about-txt{
           padding: 0px;
           width: 40%;
-          font-size: 0.7em;
+          font-size: 1em;
           letter-spacing: 1px;          
               }   
               .about-txt p{
