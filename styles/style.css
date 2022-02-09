@@ -150,6 +150,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
             height: 80px;
                 }                        
 #title-a, #title-b,#title-c,#title-d{    
+    width: 100%;
     font-family: old;
     font-weight:400;
     color: #ffffff;
@@ -168,6 +169,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
                     }
 
 .article-home:before,  .cont-cards:before{
+    width: 100%;
     content:'';
     position: absolute;
     top: 0;
@@ -177,6 +179,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
     background-color: rgba(0,0,0,0.5);
                     }
   .article-contact:before,.article-about:before, .article-skills:before{
+    width: 100%;
     content:'';
     position: absolute;
     top: 0;
@@ -247,6 +250,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
                                                  }
                                                       }       
 .article-about{
+    width: 100%;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -286,6 +290,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
                                          text-align: justify;
                                         }
 .cont-cards{
+    width: 100%;
     padding: 5%;
     display:flex;
     justify-content: center;
@@ -310,6 +315,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
                                             font-family: code;                                            
                                        }    
 .article-contact{
+    width: 100%;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -384,6 +390,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
                                     }
 
 .article-skills{
+    width: 100%;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -413,6 +420,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
                                                                          object-fit: contain;
                                                                          }       
 footer{
+    width: 100%;
     height: 50px;
     display: flex;
     align-items: center;
