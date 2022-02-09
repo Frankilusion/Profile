@@ -137,6 +137,8 @@ form .cont-button-form button:hover{
 body{
 
     width: 100%;
+    padding: 0px;
+    margin: 0px;
 }
 .navbar{
 background-color: #ffffff ;
@@ -447,7 +449,18 @@ footer{
 /*******************************************************************************************/
 
 @media screen and (max-width:1400px){
+    body{
 
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+    }
+    body{
+
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+    }
     .cont-button-nav button{
         background-color:  #14ffb1;
         font-family: old;
@@ -515,6 +528,12 @@ footer{
 }
 
 @media screen and (max-width:1200px){
+    body{
+
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+    }
     .logo{
         width: 50px;
         height: 50px;
@@ -536,6 +555,12 @@ header h1{
 }
 
 @media screen and (max-width:768px){
+    body{
+
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+    }
 .logo{
         width: 50px;
         height: 50px;
