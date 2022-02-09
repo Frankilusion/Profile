@@ -556,6 +556,9 @@ header h1{
 
 @media screen and (max-width:768px){
     body{
+       
+            overflow-x: hidden;
+         
 
         width: 100%;
         padding: 0px;
@@ -592,7 +595,7 @@ header h1{
    }
     .cont-button-home button{
         padding: 5px;
-        font-size: 0.7em; 
+        font-size: 0.7rem; 
         margin: 0px;         
         letter-spacing: 2px;    
     }
@@ -610,14 +613,14 @@ header h1{
     box-shadow: 2px 2px 10px 50px  rgb(13, 17, 23);   
 }       
         .home h5{
-             font-size: 1.3em;
+             font-size: 1.3rem;
              letter-spacing: 2px;    
             }
         .home h1{      
-             font-size: 3em;
+             font-size: 3rem;
             }
         .home h2{  
-             font-size: 1em;
+             font-size: 1rem;
              letter-spacing: 3px;
             }            
 .cont-about{  
@@ -631,7 +634,7 @@ header h1{
             .about-txt{
                 padding: 0px;
                 width: 90%;
-                font-size: 0.9em;
+                font-size: 0.9rem;
                 letter-spacing: 1px;                
                     }                       
                     .about-txt p{
@@ -649,7 +652,7 @@ header h1{
 }      
         .cont-contacts header{
             text-align: center;
-            font-size: 1.2em;
+            font-size: 1.2rem;
         }    
 .form{            
             width: 90%;
@@ -665,13 +668,13 @@ header h1{
                                      font-size: 1.2em;
                                   }
                                         label{
-                                         font-size: 1.2em;                                         
+                                         font-size: 1.2rem;                                         
                                              }
                                        header h1{                                        
-                                        font-size: 1.5em;                                        
+                                        font-size: 1.5rem;                                        
                                                 }
                                       header h5{                                    
-                                         font-size: 1em;                                      
+                                         font-size: 1rem;                                      
                                                 }               
 .cont-tools .tools{
               display:grid;
@@ -685,11 +688,11 @@ header h1{
                                                         }                                                                                                      
  footer{
                                                             height: 50px;                                                           
-                                                            font-size: 0.7em;
+                                                            font-size: 0.7rem;
                                                             letter-spacing: 1px;                                                            
                                                         }
                                                         .cont-button-form button {
-                                                            font-size: 1.2em;
+                                                            font-size: 1.2rem;
                                                             font-weight: 100;
                                                         }                                                                                                                                                              
 }                        
