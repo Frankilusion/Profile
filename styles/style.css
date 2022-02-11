@@ -217,7 +217,7 @@ box-shadow: 2px 2px 2px 0.2px rgb(80, 80, 80);
                     align-items: center;
                     background-color: rgb(13, 17, 23);
                     box-shadow: 0px 0px 20px 50px  rgb(13, 17, 23);
-                    border-radius: 2px;
+                   
 
                     }
                           .home h5{
@@ -594,7 +594,7 @@ header h1{
    }
     .cont-button-home button{
         padding: 5px;
-        font-size: 0.7rem; 
+        font-size: 0.5em; 
         margin: 0px;         
         letter-spacing: 2px;    
     }
@@ -619,7 +619,7 @@ header h1{
              font-size: 3rem;
             }
         .home h2{  
-             font-size: 0.9em;
+             font-size: 0.5em;
              letter-spacing: 3px;
             }            
 .cont-about{  
@@ -694,4 +694,15 @@ header h1{
                                                             font-size: 1.2rem;
                                                             font-weight: 100;
                                                         }                                                                                                                                                              
+
+
+                                                        body{
+
+                                                            width: 100%;
+                                                            padding: 0px;
+                                                            margin: 0px;
+                                                            overflow-x: hidden;
+                                                        }
+                                                        
+                                                        
 }                        
