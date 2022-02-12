@@ -598,9 +598,9 @@ header h1{
    }
     .cont-button-home button{
         padding: 5px;
-        font-size: 0.5em; 
+        font-size: 0.7em; 
         margin: 0px;         
-        letter-spacing: 2px;    
+        letter-spacing: 1px;    
     }
      /*BUTTON HOME*/
 #title-a, #title-b,#title-c,#title-d{  
@@ -623,7 +623,7 @@ header h1{
              font-size: 3rem;
             }
         .home h2{  
-             font-size: 0.5em;
+             font-size: 0.7em;
              letter-spacing: 3px;
             }            
 .cont-about{  
